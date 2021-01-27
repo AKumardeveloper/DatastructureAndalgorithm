@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name">Modanwal Samaj</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_makeprofile">Makeprofile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="large_text">
+        "Welcome to Modanwal Samaj app\n"
+        "Dear Friends,\n"
+        "          I have Developed this application"
+        " to solve your matrimonial problem because many people facing so much trouble to find a good bride and bridegroom for "
+        "their son and daughter . With the help of this application you people can create your matrimonial profile and find "
+        "profile of all India modanwal boys and girls with their actual profession, that would be very easy to contact the person "
+        "to whom do you like.\n\n"
+        "Supporting member:-"
+        "       Mr. Jitendra gupta ( JDA. software ) , Mr. Prince gupta (Dr.Reddy's Laboratories ), Mr. Pranav jain(B.tech IT), Mr. Tarun, Mr. Abhishek and "
+        "my all friends and my family members who supported me a lot to develop this application.I am very thankful to all of them.\n\n"
+        "Develop by,\n\n"
+        "Ashish Kumar (Software Engineer)\n"
+        "S/o Mr. Gopi Chandra Modanwal\n"
+        "EmailId: modanwalmatrimonialsamaj@gmail.com\n\n"
+        "Note:\n"
+        "          friends, if you have any suggestion to improve this application for better performance kindly send me a mail..\n"
+        "          My moto is to reduce the social problem through the applications.\n"
+        "Coming soon with new application.."
+    </string>
+    <string name="back">BACK</string>
+    <string name="submit">SUBMIT</string>
+    <string name="state1">State</string>
+    <string name="district">District</string>
+    <string name="gender">Gender</string>
+    <string name="profession">Profession</string>
+    <string name="search">SEARCH</string>
+    <string name="create">CREATE PROFILE</string>
+    <string name="next">NEXT</string>
+    <string name="Name">Name</string>
+    <string name="Fathername">"Father's Name"</string>
+    <string name="Height">Height</string>
+    <string name="Color">Color</string>
+    <string name="Dob">DateOfBirth</string>
+    <string name="mobile">Mobile No.</string>
+    <string name="typename">Type name here</string>
+    <string name="typefather">"Type father's name"</string>
+    <string name="typeheight">Type height here</string>
+    <string name="typecolor">Type Body color</string>
+    <string name="typemobile">Type mobile no.</string>
+    <string name="typeDob">Click here to select DOB</string>
+    <string name="village">Village:</string>
+    <string name="uploadphoto">UPLOAD PHOTO</string>
+    <string name="typevillage">Type village name</string>
+    <string name="address">Address</string>
+    <string name="profile">ProfileID</string>
+    <string name="ModanwalSamaj">Shree Kanya Kubj Vaishya Modanwal(Halwai) Samaj India</string>
+    <string name="Modanwalcom">modanwalmatrimonialsamaj@gmail.com</string>
+    <string name="upadte">Update</string>
+    <string name="Admin">Admin</string>
+    <string name="maps">Maps</string>
+    <string name="event">Notification</string>
+    <string name="aboutus">About Us</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">AppShare</string>
+    <string name="free">Free Time</string>
+    <string name="agecalculator">Age Calculator</string>
+    <string name="today">"Today's Date"</string>
+    <string name="date">Day</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Appupdate">AppUpdate</string>
+    <string name="show">Show</string>
+    <string name="rateus">RateUs</string>
+    <string name="result">Result</string>
+    <string name="Unmarried">Unmarried</string>
+    <string name="Searchbyid">SearchById</string>
+    <string name="Howtocreate">How to create profile</string>
+    <string name="Howtosearch">How to search</string>
+    <string name="help">Help</string>
+    <string name="Otherfacilities">Other facilities</string>
+    <string name="Delete">Delete Profile</string>
+    <string name="LogOut">LOG OUT</string>
+    <string name="SigIn">SIGN IN</string>
+    <string name="SignUp">SIGN UP</string>
+    <string name="MatrimonialProfile">Matrimonial Profile</string>
+    <string name="DeleteNotification">Delete Notification</string>
+    <string name="Postnotification">Post Notification</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3583476285159663/9076191044</string>
+    <string name="admob_interstetial_ad">ca-app-pub-3583476285159663/7941172960</string>
+    <string name="state">state</string>
+    <string name="Andhrapradeshdistrict">Andhrapradeshdistrict
+    </string>
+    <string name="Arunachalpradesh">Arunachalpradesh
+    </string>
+    <string name="Assamdistricts">Assamdistricts
+
+    </string>
+    <string name="Bhihardistricts">Bhihardistricts
+
+    </string>
+    <string name="Chhattisgarhdistricts">Chhattisgarhdistricts
+
+    </string>
+    <string name="Delhidistricts">Delhidistricts
+
+    </string>
+    <string name="Goadistricts">Goadistricts
+
+    </string>
+    <string name="Gujaratdistrics">Gujaratdistrics
+
+    </string>
+    <string name="Haryanadistricts">Haryanadistricts
+
+    </string>
+    <string name="HimachalPradeshdistricts">HimachalPradeshdistricts
+
+    </string>
+    <string name="Jammukashmirdistricts">Jammukashmirdistricts
+
+    </string>
+    <string name="Jharkhanddistrics">Jharkhanddistrics
+
+    </string>
+    <string name="Karnatakadistricts">Karnatakadistricts
+
+    </string>
+    <string name="Keraladistrics">Keraladistrics
+
+    </string>
+    <string name="Madhyapradeshdistricts">Madhyapradeshdistricts
+
+    </string>
+    <string name="Maharashtradistricts">Maharashtradistricts
+
+    </string>
+    <string name="Manipurdistricts">Manipurdistricts
+
+    </string>
+    <string name="Meghalayadistrics">Meghalayadistrics
+
+    </string>
+    <string name="Mizoramdistricts">Mizoramdistricts
+
+    </string>
+    <string name="Nagalanddistricts">Nagalanddistricts
+
+    </string>
+    <string name="Odishadistricts">Odishadistricts
+
+    </string>
+    <string name="Punjabdistricts">Punjabdistricts
+
+    </string>
+    <string name="Rajasthandistrics">Rajasthandistrics
+
+    </string>
+    <string name="Sikkimdistricts">Sikkimdistricts
+
+    </string>
+    <string name="Tamilnududistricts">Tamilnududistricts
+
+    </string>
+    <string name="Telanganadistricts">Telanganadistricts
+
+    </string>
+    <string name="Tripuradistricts">Tripuradistricts
+
+    </string>
+    <string name="Uttarakhanddistricts">Uttarakhanddistricts
+
+    </string>
+    <string name="Updistricts">Updistricts
+
+    </string>
+    <string name="Westbengaldistricts">Westbengaldistricts
+
+    </string>
+    <string name="Gender">Gender</string>
+    <string name="Profession">Profession
+    </string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backcolor"
+    tools:context=".Postdelete">
+
+
+    <EditText
+        android:id="@+id/postid"
+        android:layout_width="300dp"
+        android:layout_marginTop="250dp"
+        android:layout_height="40dp"
+        android:textSize="25sp"
+        android:background="@drawable/roundshapebtn"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="  Notification Id" />
+    <Button
+        android:id="@+id/adminpostdelete"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="350dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/roundshapebtn"
+        android:text="Delete Notification"
+        android:textColor="@color/darkwhite" />
+    <Button
+        android:id="@+id/deletetohome"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
+        android:background="@drawable/roundshapebtn"
+        android:textColor="@color/darkwhite"
+        android:text="@string/back" />
+</RelativeLayout>

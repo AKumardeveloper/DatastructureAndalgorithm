@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/admin"
+            android:icon="@drawable/age"
+            android:title="@string/Admin"
+            />
+        <item
+            android:id="@+id/helpclass"
+            android:icon="@drawable/help"
+            android:title="@string/help"
+            />
+        <item
+            android:id="@+id/Maps"
+            android:icon="@drawable/map"
+            android:title="@string/maps" />
+        <item
+            android:id="@+id/Event"
+            android:icon="@drawable/n"
+            android:title="@string/event" />
+        <item
+            android:id="@+id/agecalculator"
+            android:icon="@drawable/age"
+            android:title="@string/agecalculator"
+            />
+        <item
+            android:id="@+id/Aboutus"
+            android:icon="@drawable/i"
+            android:title="@string/aboutus" />
+    </group>
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/appupdate"
+                android:title="@string/Appupdate"
+                android:icon="@drawable/update"
+                />
+            <item
+                android:id="@+id/rateus"
+                android:title="@string/rateus"
+                android:icon="@drawable/rate"
+                />
+        </menu>
+    </item>
+
+</menu>

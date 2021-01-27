@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backcolor"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    tools:context="com.modanwalmatrimonialsamaj.Agecalculator">
+
+    <TextView
+        android:id="@+id/textView38"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="70dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="360dp"
+        android:text="00 Day 00 Month 00 Year "
+        android:background="@drawable/roundshapebtn"
+        android:textColor="#DE000000"
+        android:textSize="25sp" />
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="200dp"
+        android:text="Select Date of Birth"
+        android:textColor="#DE000000"
+        android:textSize="25sp" />
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="280dp"
+        android:text="Select Today's Date"
+        android:textColor="#DE000000"
+        android:textSize="25sp"/>
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="450dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/roundshapebtn"
+        android:text="@string/Calculate"
+        android:textColor="@color/darkwhite" />
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fabe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/fab_margin"
+        android:background="@color/purple"
+        app:layout_anchorGravity="bottom|end"
+        app:srcCompat="@drawable/undo" />
+</RelativeLayout>

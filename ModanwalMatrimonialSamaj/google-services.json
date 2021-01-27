@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "358894650304",
+    "firebase_url": "https://madanwalmatrimonialsamaj.firebaseio.com",
+    "project_id": "madanwalmatrimonialsamaj",
+    "storage_bucket": "madanwalmatrimonialsamaj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358894650304:android:44054a06c36b5fbc",
+        "android_client_info": {
+          "package_name": "com.modanwalmatrimonialsamaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358894650304-938faotg7bd0352qf5dq4jh5ikmtjv93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.modanwalmatrimonialsamaj",
+            "certificate_hash": "2830ffc9cc8b85d50131591b0f2ddbcbcfe269b0"
+          }
+        },
+        {
+          "client_id": "358894650304-f4jvcmh0btcekkmj94umnsnvn4r7jnod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFN85nd9Dt4u9mSrn7BG5Ie8fI5W8K8II"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358894650304-f4jvcmh0btcekkmj94umnsnvn4r7jnod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

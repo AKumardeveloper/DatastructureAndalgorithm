@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backcolor"
+    tools:context=".Adminlogin">
+
+    <EditText
+        android:id="@+id/adminemail"
+        android:layout_width="300dp"
+        android:layout_marginTop="250dp"
+        android:layout_height="40dp"
+        android:textSize="25sp"
+        android:background="@drawable/roundshapebtn"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="     Email" />
+    <EditText
+        android:id="@+id/adminpass"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:textSize="25sp"
+        android:layout_marginTop="300dp"
+        android:background="@drawable/roundshapebtn"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="    Password" />
+
+    <Button
+        android:id="@+id/adminsignin"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="400dp"
+        android:background="@drawable/roundshapebtn"
+        android:textColor="@color/darkwhite"
+        android:text="@string/SigIn" />
+    <Button
+        android:id="@+id/admintohome"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
+        android:background="@drawable/roundshapebtn"
+        android:textColor="@color/darkwhite"
+        android:text="@string/back" />
+
+
+
+</RelativeLayout>

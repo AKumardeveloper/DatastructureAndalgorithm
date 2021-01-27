@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backcolor"
+    tools:context=".Admineventpost">
+
+    <ImageView
+        android:id="@+id/postimageView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="0dp"
+        app:srcCompat="@color/common_google_signin_btn_text_light_pressed" />
+    <TextView
+        android:id="@+id/posttextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="17sp"
+        android:layout_marginTop="200dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:text="Click here To Upload Image.." />
+    <EditText
+        android:id="@+id/adminpostid"
+        android:layout_width="match_parent"
+        android:layout_marginTop="300dp"
+        android:layout_height="40dp"
+        android:textSize="25sp"
+        android:background="@drawable/roundshapebtn"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="    Notification Id" />
+    <EditText
+        android:id="@+id/adminposttitle"
+        android:layout_width="match_parent"
+        android:layout_marginTop="350dp"
+        android:layout_height="40dp"
+        android:textSize="25sp"
+        android:background="@drawable/roundshapebtn"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="    Notification Title" />
+    <EditText
+        android:id="@+id/adminpostdesc"
+        android:layout_width="match_parent"
+        android:layout_marginTop="400dp"
+        android:layout_height="40dp"
+        android:textSize="25sp"
+        android:background="@drawable/roundshapebtn"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="    Notification Description" />
+    <Button
+        android:id="@+id/adminpostbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="450dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/roundshapebtn"
+        android:text="@string/Postnotification"
+        android:textColor="@color/darkwhite" />
+    <Button
+        android:id="@+id/adminposttodelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="500dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/roundshapebtn"
+        android:text="@string/DeleteNotification"
+        android:textColor="@color/darkwhite" />
+    <Button
+        android:id="@+id/adminposttohome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="550dp"
+        android:background="@drawable/roundshapebtn"
+        android:textColor="@color/darkwhite"
+        android:text="@string/back" />
+</RelativeLayout>

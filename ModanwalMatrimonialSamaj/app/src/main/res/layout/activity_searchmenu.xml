@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/backcolor"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    tools:context="com.modanwalmatrimonialsamaj.Searchmenu">
+    <ListView
+        android:id="@+id/listviewsearch"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="58dp"/>
+    <TextView
+        android:id="@+id/posttextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="17sp"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FF0000"
+        android:text="        VERIFY THE PERSON'S DATA YOURSELF \n           APP IS NOT RESPONSIBLE FOR THAT."/>
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fabresult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_anchorGravity="top|start"
+        android:background="@color/colorPrimary"
+        app:srcCompat="@drawable/undo" />
+</RelativeLayout>

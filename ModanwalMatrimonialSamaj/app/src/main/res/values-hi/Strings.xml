@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मोदनवाल समाज</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="title_activity_makeprofile">Makeprofile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_about_us">हमारे बारे में</string>
+    <string name="large_text">
+        "मोदनवाल समाज ऐप में आपका स्वागत है \n"
+"प्रिय मित्र, \n"
+
+
+        "      मैं वैवाहिक समस्या को हल करने के लिए एक ऐप बनाया हूँ ,क्योंकि बहुत से लोग "
+        "अपने बेटे और बेटी शादी के लिए इतनी परेशानी का सामना कर रहे हैं। इस ऐप की मदद से आप"
+        "अपना वैवाहिक प्रोफाइल बना सकते हैं और अखिल भारतीय मोदनवाल समाज के लड़कों "
+        "और लड़कियाँ का उनके असली पेशे के साथ प्रोफ़ाइल पा सकते हैं, जो आपको पसंद आए व्यक्ति से संपर्क करना बहुत आसान होगा। \n\n "
+"सहायक सदस्य:- "
+"      श्री जितेंद्र गुप्ता (जेडीए सॉफ्टवेयर), श्री प्रिंस गुप्ता (डा. रेड्डी लैबोरेटरीज),श्री प्रणव जैन (बीटेक आईटी), श्री तरूण ,श्री अभिषेक और"
+"मेरे सभी दोस्तों और मेरे परिवार ने मुझे इस एप्लिकेशन को विकसित करने में बहुत मदद की है। मैं बहुत सभी लोगों का बहुत आभारी हूँ |\n\n"
+"डेवलपर :\n\n"
+"आशीष कुमार (सॉफ्टवेयर इंजीनियर) \n"
+"पिता- श्री गोपी चंद्र मोदनवाल \n"
+"ईमेल आईडी: modanwalmatrimonialsamaj@gmail.com \n"
+"ध्यान दें \n"
+"     दोस्तों, यदि आपके पास बेहतर प्रदर्शन के लिए कोई सुझाव है, तो कृपया मुझे एक मेल भेजें। \n"
+"     मेरा मोटो ऐप के माध्यम से सामाजिक समस्या को कम करना है। \n"
+"एक और नए ऐप के साथ जल्द ही आ रहा हूँ .."
+    </string>
+    <string name="back">वापस</string>
+    <string name="submit">जमा करें</string>
+    <string name="state1">राज्य</string>
+    <string name="district">जिला</string>
+    <string name="gender">लिंग</string>
+    <string name="profession">व्यवसाय</string>
+    <string name="search">खोजें</string>
+    <string name="create">प्रोफ़ाइल बनाये</string>
+    <string name="next">आगे</string>
+    <string name="Name">नाम</string>
+    <string name="Fathername">पिता का नाम</string>
+    <string name="Height">लंबाई</string>
+    <string name="Color">रंग</string>
+    <string name="Dob">जन्म की तारीख</string>
+    <string name="mobile">मोबाइल नंबर</string>
+    <string name="typename">नाम यहाँ टाइप करें</string>
+    <string name="typefather">पिता का नाम टाइप करें</string>
+    <string name="typeheight">लंबाई यहां टाइप करें</string>
+    <string name="typecolor">शारीरिक रंग टाइप करें</string>
+    <string name="typemobile">मोबाइल नंबर टाइप करें</string>
+    <string name="typeDob">जन्म तिथि लिखें</string>
+    <string name="village">गांव/शहर</string>
+    <string name="uploadphoto">फोटो अपलोड करें</string>
+    <string name="typevillage">यहां ग्राम / शहर का नाम टाइप करें</string>
+    <string name="address">पता</string>
+    <string name="profile">प्रोफ़ाइल आईडी</string>
+    <string name="ModanwalSamaj">श्री कान्य कुब्ज वैश्य मोदनवाल(हलवाई) समाज भारत</string>
+    <string name="Modanwalcom">modanwalmatrimonialsamaj@gmail.com</string>
+    <string name="upadte">नया करें</string>
+    <string name="Admin">व्यवस्थापक</string>
+    <string name="maps">नक्शा</string>
+    <string name="event">अधिसूचना</string>
+    <string name="aboutus">हमारे बारे में</string>
+    <string name="communicate">संवाद</string>
+    <string name="share">शेयर</string>
+    <string name="agecalculator">आयु कैलक्यूलेटर</string>
+    <string name="today">आज की तारीख</string>
+    <string name="date">दिन</string>
+    <string name="month">महीना</string>
+    <string name="year">साल</string>
+    <string name="Calculate">गणना</string>
+    <string name="free">खाली समय</string>
+    <string name="result">परिणाम</string>
+    <string name="Appupdate">ऐप अपडेट</string>
+    <string name="show">प्रदर्शन</string>
+    <string name="rateus">हमें रेटिंग दें</string>
+    <string name="Unmarried">अविवाहित</string>
+    <string name="Searchbyid">आईडी से खोजें</string>
+    <string name="day">दिन</string>
+    <string name="Howtocreate">प्रोफ़ाइल कैसे बनाएं</string>
+    <string name="Howtosearch">खोज कैसे करें</string>
+    <string name="help">सहायता</string>
+    <string name="Delete">प्रोफ़ाइल हटाएं</string>
+    <string name="LogOut">लॉग आउट</string>
+    <string name="SigIn">लॉग इन करें</string>
+    <string name="SignUp">रजिस्टर करें</string>
+    <string name="DeleteNotification">नोटिफिकेशन हटाएं </string>
+    <string name="Postnotification">पोस्ट नोटिफिकेशन</string>
+    <string name="MatrimonialProfile">वैवाहिक प्रोफ़ाइल</string>
+    <string name="Otherfacilities">अन्य सुविधाएँ</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3583476285159663/9076191044</string>
+    <string name="admob_interstetial_ad">ca-app-pub-3583476285159663/7941172960</string>
+    <string name="state">state</string>
+    <string name="Andhrapradeshdistrict">Andhrapradeshdistrict
+    </string>
+    <string name="Arunachalpradesh">Arunachalpradesh
+    </string>
+    <string name="Assamdistricts">Assamdistricts
+
+    </string>
+    <string name="Bhihardistricts">Bhihardistricts
+
+    </string>
+    <string name="Chhattisgarhdistricts">Chhattisgarhdistricts
+    </string>
+    <string name="Delhidistricts">Delhidistricts
+
+    </string>
+    <string name="Goadistricts">Goadistricts
+
+    </string>
+    <string name="Gujaratdistrics">Gujaratdistrics
+
+    </string>
+    <string name="Haryanadistricts">Haryanadistricts
+
+    </string>
+    <string name="HimachalPradeshdistricts">HimachalPradeshdistricts
+
+    </string>
+    <string name="Jammukashmirdistricts">Jammukashmirdistricts
+
+    </string>
+    <string name="Jharkhanddistrics">Jharkhanddistrics
+
+    </string>
+    <string name="Karnatakadistricts">Karnatakadistricts
+
+    </string>
+    <string name="Keraladistrics">Keraladistrics
+
+    </string>
+    <string name="Madhyapradeshdistricts">Madhyapradeshdistricts
+
+    </string>
+    <string name="Maharashtradistricts">Maharashtradistricts
+
+    </string>
+    <string name="Manipurdistricts">Manipurdistricts
+
+    </string>
+    <string name="Meghalayadistrics">Meghalayadistrics
+
+    </string>
+    <string name="Mizoramdistricts">Mizoramdistricts
+
+    </string>
+    <string name="Nagalanddistricts">Nagalanddistricts
+
+    </string>
+    <string name="Odishadistricts">Odishadistricts
+
+    </string>
+    <string name="Punjabdistricts">Punjabdistricts
+
+    </string>
+    <string name="Rajasthandistrics">Rajasthandistrics
+
+    </string>
+    <string name="Sikkimdistricts">Sikkimdistricts
+
+    </string>
+    <string name="Tamilnududistricts">Tamilnududistricts
+
+    </string>
+    <string name="Telanganadistricts">Telanganadistricts
+
+    </string>
+    <string name="Tripuradistricts">Tripuradistricts
+
+    </string>
+    <string name="Uttarakhanddistricts">Uttarakhanddistricts
+
+    </string>
+    <string name="Updistricts">Updistricts
+
+    </string>
+    <string name="Westbengaldistricts">Westbengaldistricts
+
+    </string>
+    <string name="Gender">Gender</string>
+    <string name="Profession">Profession
+    </string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
